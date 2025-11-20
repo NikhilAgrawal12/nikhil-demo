@@ -1,4 +1,4 @@
 # nikhil-demo
 This is my demo git repository.
 <br>
-Author - Nikhil Agrawal
+Author - Nikhil Dinesh Agrawal
